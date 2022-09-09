@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate backend developer from India</h3>
 
-🌱 I’m learning to handle large set of data in database. `<br/>s`
+🌱 I’m learning to handle large set of data in database. `<br/>`
 👯 I’m looking to collaborate on **Opensource Projects** `<br/>`
 💬 Ask me about **Node.js, MongoDB, Redis, Javascript, Python, Market-Making, Algo Trading, Express.js, Scripting** `<br/><br/>`
 
