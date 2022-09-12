@@ -4,7 +4,7 @@
 
 🌱 I’m learning to handle large set of data in database. <br/>
 👯 Looking forward to collaborate in **Open Source Projects**. <br/>
-❤️ Javascript and have been writing Node.js for 2 years.
+❤️ Javascript and have been writing Node.js for 2 years.<br/>
 💬 Ask me about **Node.js, MongoDB, Redis, Javascript, Python, Market-Making, Algo Trading, Express.js, Scripting** <br/> <br/>
 <h4><b>Feel Free To Connect With Me!</b> <img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="40px" /></h4>
 <div>
